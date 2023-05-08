@@ -1,0 +1,15 @@
+name: fae_demo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - jupyter
+  - imageio
+  - imageio-ffmpeg
+  - matplotlib
+  - opencv
+  - mxnet
+  - dlib
+  - python-dotenv
+  - mxnet
